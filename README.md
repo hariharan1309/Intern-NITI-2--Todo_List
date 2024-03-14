@@ -1,4 +1,9 @@
-# React + Vite
+# Todo List
+This project was done for learning purposes and an Internship at Intern NITI for React Development.
+It was built using ReactJS+TailwindCSS.
+It is a simple Todo List with minimal gradients on the components.
+
+# Built with React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
